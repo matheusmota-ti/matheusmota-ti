@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Matheus Mota 👋
 
-<!--
-**matheusmota-ti/matheusmota-ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Ciência da Computação** no UniCEUB (2º Semestre)  
+💡 **Foco Atual:** Desenvolvimento de Software, Algoritmos e Análise de Dados  
+📍 **Localização:** Brasília, DF - Brasil
+🛠️ Tecnologias e Ferramentas
+Linguagens: Python | C | Java | HTML5 | CSS3
 
-Here are some ideas to get you started:
+Conceitos: Lógica de Programação | Estrutura de Dados | POO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sistemas & Redes: Git | GitHub | Hardware | Segurança Digital (Cisco)
+
+🚀 O que estou a desenvolver?
+Exercícios práticos e projetos de lógica em C e Python.
+
+Aplicações web simples com HTML5/CSS3.
+
+📫 Vamos conectar?
+**LinkedIn:** [Matheus Mota](https://www.linkedin.com/in/matheusmota-dev)
+
+E-mail: matheus.araujo0273@gmail.com
